@@ -8,6 +8,7 @@ void main(List<String> arguments) {
 
   print('git-reset: 2nd commit');
 
+  print('git-reset: 3rd commit');
   print('staging: 1st commit');
 
   print('staging: 2nd commit');
